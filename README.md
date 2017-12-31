@@ -1,2 +1,2 @@
-# booking
+# Booking
 Book a seat with Bootstrap checkbox
